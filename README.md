@@ -10,7 +10,7 @@ in this website,you can find all my 301 reading notes
 **read** | **link**
 ---------|----------
 Read 1     |[link 1](https://yazan-alshekha.github.io/reading-notes-401/read01)
-
+Read 2     |[link 2](https://yazan-alshekha.github.io/reading-notes-401/read02)
 
 
 
