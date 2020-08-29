@@ -7,6 +7,7 @@ in this website,you can find all my 301 reading notes
 
 **read** | **link**
 ---------|----------
+prep1      |[link](https://yazan-alshekha.github.io/reading-notes-401/prep1)
 Read 1     |[link 1](https://yazan-alshekha.github.io/reading-notes-401/read01)
 Read 2     |[link 2](https://yazan-alshekha.github.io/reading-notes-401/read02)
 Read 3     |[link 3](https://yazan-alshekha.github.io/reading-notes-401/read03)
